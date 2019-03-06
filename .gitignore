@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+# if the files to be tracked are in subdirectories
+!*/system/da_journal2.ocmod.xml
+!*/catalog/view/theme/journal2/template/common/header.tpl
+!*/catalog/view/theme/journal2/template/common/footer.tpl
+!*/catalog/view/theme/journal2/css/whatsapp.css
